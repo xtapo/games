@@ -19,29 +19,29 @@ url:                   blog3.xtapo.com
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shahzaib Khan
+title:                 Blog XTAPO
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
- An enthusiastic learner & coder who's eager to enhance its coding skills. Currently, undergraduate at NUCES FAST. Interested in Cyber Security & Artificial Intelligence.
+ An enthusiastic learner & coder who's eager to enhance its coding skills. Interested in Cyber Security & Artificial Intelligence.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Developer' -- Inquisitive Coder' -- Cyber Enthusiast'
+  Blog' -- Nulled' -- Crack'
 
 # A list of keywords for your blog
-keywords:              [engineer, developer, hacker, hardware, fastian, karachiite]
+keywords:              [engineer, developer, hacker, hardware, nulled, crack, blog]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/img/xtapo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Shahzaib> <Ahmed>
-  email:               <shazaibahmed0000@gmail.com>
+  name:                XTAPO
+  email:               <info@xtapo.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
