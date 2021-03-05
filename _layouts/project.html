@@ -85,3 +85,7 @@ layout: base
   {% else %}
   {% endcase %}
 {% endfor %}
+
+{% if plugins contains 'jekyll-paginate' %}
+  {% include components/pagination.html %}
+{% endif %}
