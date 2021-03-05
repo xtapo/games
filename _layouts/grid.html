@@ -27,9 +27,10 @@ layout: page
   <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
     {% include_cached pro/post-card.html post=post featured=featured %}
   </div>
-  {% if plugins contains 'jekyll-paginate' %}
-    {% include components/pagination.html %}
-  {% endif %}
 
   {% if forloop.last %}</div>{% endif %}
 {% endfor %}
+
+{% if plugins contains 'jekyll-paginate' %}
+  {% include components/pagination.html %}
+{% endif %}
