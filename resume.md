@@ -2,7 +2,7 @@
 layout: resume
 title: Résumé
 hide_description: true
-menu: true
+menu: flase
 order: 5
 left_column:
 # - work
