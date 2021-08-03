@@ -298,7 +298,7 @@ plugins:
 # To avoid warning, don't include theme variable when using GitHub-Pages
 # theme: jekyll-theme-hydejack
 
-remote_theme: hydecorp/hydejack@v9.1.2
+remote_theme: hydecorp/hydejack@v9.1.4
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
