@@ -3,7 +3,7 @@ layout: post
 title:  Cách bảo vệ dữ liệu của bạn khỏi Dark Web
 image:  
   path: /assets/img/blog/dark-web-la-gi-2.png
-canonical_url: http://bit.ly/trezor-glitch
+canonical_url: https://photos.xtapo.com
 hide_image: false
 accent_color: '#4fb1ba'
 accent_image:
