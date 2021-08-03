@@ -1,7 +1,7 @@
 ---
 layout: grid
-title: PHP-Scripts
-slug: php-scripts
+title: PHP Scripts
+slug: PHP-Scripts
 menu: true
 order: 2
 description: >
