@@ -111,4 +111,10 @@ Sahifa News Theme is a clean, modern, user friendly, fast-loading, customizable,
   * SoundCloud Widget
   * Custom author content widget to display banners or text Widget
   * Advertisement Widgets
-* 40+ Shortcodes
+* 40+ Shortcodes  
+
+## Demo Sahifa - Responsive WordPress News / Magazine / Blog Theme  
+[![button](/assets/img/demo.png)](https://themeforest.net/item/sahifa-responsive-wordpress-news-magazine-newspaper-theme/2819356){:target="_blank"}  
+
+## Download Free Sahifa 5.7.6 - Responsive WordPress News / Magazine / Blog Theme
+[![button](/assets/img/download.png)](http://gestyy.com/eoFsHF){:target="_blank"}  
