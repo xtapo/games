@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: grid
 title: PHP-Scripts
 slug: php-scripts
 menu: true
