@@ -1,9 +1,18 @@
 ---
+layout: post
 title:  Cách bảo vệ dữ liệu của bạn khỏi Dark Web
-image: /assets/img/blog/dark-web-la-gi-2.png
+image:  
+  path: /assets/img/blog/dark-web-la-gi-2.png
+canonical_url: http://bit.ly/trezor-glitch
+hide_image: false
+accent_color: '#4fb1ba'
+accent_image:
+  background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
+  overlay:    true
 categories: [blog]
 description: >
   Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp Cách bảo vệ dữ liệu của bạn khỏi Dark Web.
+
 tag: an toàn thông tin, bảo mật, dark web, deep web, deepweb
 ---
 
