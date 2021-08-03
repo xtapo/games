@@ -152,7 +152,7 @@ defaults:
 hydejack:
   # Configure the order of complementary content on blog posts
   # Available addons: about, newsletter, related, random, comments
-  post_addons:         [about, newsletter, comments]
+  post_addons:         [about, newsletter, comments, related, random ]
 
   # Configure the order of complementary content on project pages
   # Available addons: about, newsletter, comments, other
