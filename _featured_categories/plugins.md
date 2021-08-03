@@ -5,5 +5,5 @@ slug: plugins
 menu: true
 order: 4
 description: >
-  A collection of miscellaneous mini-projects that I work on in my spare time.
+  Download free premium wordpress themes, free plugins, ThemeForest Nulled, Envato market, site templates, blogger templates, Download Free Nulled, WP ...
 ---
