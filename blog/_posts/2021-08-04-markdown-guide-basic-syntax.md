@@ -11,43 +11,10 @@ accent_image:
   overlay:    true
 categories: [blog]
 description: >
-  Đăng ký Office 365 miễn phí là phần mềm hữu hiệu để cung cấp cho bạn quyền truy cập vào các công cụ Microsoft Office đã biết ở bất cứ nơi đâu...
+  The Markdown elements outlined in John Gruber's design document.  
 
 tag: Markdown, Guide
 ---
-
-  <head>
-
-  <meta charset="utf-8">
-
-  <title>Basic Syntax | Markdown Guide</title>
-
-  <meta name="description" content="The Markdown elements outlined in John Gruber's design document.">
-  <meta name="twitter:card" content="summary" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.markdownguide.org/basic-syntax/" />
-  <meta property="og:title" content="Basic Syntax | Markdown Guide" />
-  <meta property="og:description" content="The Markdown elements outlined in John Gruber's design document." />
-  <meta property="og:image" content="https://www.markdownguide.org/assets/images/markdown-guide-og.jpg" />
-
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-
-  <link rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/bundles/257fcefa15c80677a39e88c7592ab770b9744ccb.css'/>
-
-
-
-
-
-
-
-  <link rel="canonical" href="https://www.markdownguide.org/basic-syntax/">
-
-  <script async src='https://d33wubrfki0l68.cloudfront.net/js/b92d1d6792dcd0d18e09ab7ac797f58e0550bd7c/assets/javascript/jquery-3.5.1.slim.min.js'></script>
-  <script async src='https://d33wubrfki0l68.cloudfront.net/bundles/b5975b78fdc2f6b186ff2607bcc7827fa767d566.js'></script>
-  <script defer src='https://d33wubrfki0l68.cloudfront.net/bundles/1066bc339a3beded5f6c4279870b406c047460fe.js'></script>
-
-</head>
 
   <body data-spy="scroll" data-target="#toc">
 
