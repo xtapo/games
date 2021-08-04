@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Cách bảo vệ dữ liệu của bạn khỏi Dark Web
+title:  Hướng Dẫn Đăng Ký Office 365 Miễn Phí - Tự Động Gia Hạn Từ Microsoft
 image:  
-  path: /assets/img/blog/dark-web-la-gi-2.png
+  path: /assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_013.jpg
 canonical_url: https://photos.xtapo.com
 hide_image: false
 accent_color: '#4fb1ba'
@@ -11,73 +11,71 @@ accent_image:
   overlay:    true
 categories: [blog]
 description: >
-  Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp Cách bảo vệ dữ liệu của bạn khỏi Dark Web.
+  Đăng ký Office 365 miễn phí là phần mềm hữu hiệu để cung cấp cho bạn quyền truy cập vào các công cụ Microsoft Office đã biết ở bất cứ nơi đâu...
 
-tag: an toàn thông tin, bảo mật, dark web, deep web, deepweb
+tag: office365, Microsoft, Word, Excel, Office, Powerpoint
 ---
 
-Không ai là không biết về Dark Web. Còn nếu bạn không biết thì đọc bài viết Sự khác nhau giữa Deep Web, Darknet và Dark Web. Nhiều doanh nghiệp gặp khó khăn khi bảo vệ dữ liệu khách hàng hoặc của chính doanh nghiệp đó khỏi dữ liệu bày bán thông tin công khai trên Dark Web. Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp bảo vệ dữ liệu của bạn khỏi Dark Web.  
+⚠ Lưu ý trước khi tiếp tục: Hướng dẫn sau cần account Microsoft, nếu chưa có thì bạn tạo trước nhé.
 
-Cách tốt nhất để chống lại những rủi ro này, thì bạn phải hiểu Dark Web là gì? Và làm cách nào để ngăn chặn dữ liệu của bạn được rao bán trên đó.  
+## Bước 1: Tham gia Microsoft 365 Developer Program  
+Đầu tiên các bạn vào link sau ấn nút **Join now**: https://j2c.cc/257e4abc  
 
-## Vậy Dark Web là gì? Là Dark mode của Web chăng?  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_012.jpg)  
 
-Các bạn hiểu như này. Tất cả chúng ta đều sử dụng Google để tìm kiếm một thứ gì đó trên không gian mạng hằng ngày, nên mặc định chúng ta xem nó là “phần nổi của internet”. Nhưng Google nó cũng chỉ là một công cụ tìm kiếm mà thôi. Nói như này cho dễ hiểu. Google giống như một cái ngăn tủ vậy, và một cái tủ không bao giờ có một ngăn. Sở dĩ bạn có thể tìm kiếm hầu như mọi thứ trên Google là vì, người dùng của nó cực kỳ nhiều, nên nhiều website sẽ lựa chọn công cụ tìm kiếm này để đăng bài viết.  
+ Link sẽ chuyển hướng bảo đăng nhập, bạn đăng nhập bất kỳ account Microsoft nào cũng được:  
 
-Còn những website khác thì sao? Vâng, các website khác thì đăng bài ở những công cụ tìm kiếm khác nhau, nằm trong những ngăn tủ khác nhau. Và bởi vì tính nặc danh và người dùng được tự do về ngôn luận, không một luật lệ nào có thể ngăn cản họ cả. Nói theo khía cạnh văn học thì đó là Utopia, miền đất hứa.
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_011.jpg)  
 
-Lang mang thế là đủ rồi. Cách để truy cập vào Dark Web là sử dụng một trình duyệt cụ thể như Tor và một công cụ tìm kiếm đặc biệt, DuckDuckGo. Việc truy cập vào Dark Web sẽ giúp bạn che dấu thân phận và vị trị khỏi tất cả những kẻ tò mò (có lẽ).  
+ Sau khi đăng nhập trang sẽ chuyển hướng 3 bước hỏi vài câu hỏi, bạn hãy điền **Country**, **Company**(nhập bừa), **Language**, chọn **I accept...** như hình. Rồi ấn nút **Next**:  
 
-## Có gì trên Dark Web?  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_010.jpg)
 
-Rất nhiều thứ bị cấm ở Web thường. Có các cộng đồng ngầm chuyên xử lý các hoạt động tội phạm, bao gồm buôn bán vũ khí, “phim ảnh” trẻ em và ma tuý bất hợp pháp (có ông nào sợ hình mình bị đăng bán trên đó không nhỉ?).  
+Tiếp đến chọn **Personal project** rồi **Next:**  
 
-Ngoài ra còn có một thị trường lớn chuyên buôn bán các dữ liệu bị đánh cắp nữa. Thị trường đó trị giá cả hàng triệu đô đấy (cười nhẹ).  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_009.jpg)
 
-Có khá nhiều trang dark web nơi tin tặc rao bán các dữ liệu mà mình đánh cắp cho người khác. Những người mua dữ liệu này sẽ thực hiện hành vi trộm cắp dựa trên danh tính đã mua, lừa đảo hoặc xâm nhập vào tài khoản của bạn. Do đó bạn cần có các kiến thức để bảo vệ dữ liệu của bạn khỏi Dark Web không bị rao bán.  
+Tiếp theo chỉ cần chọn bừa rồi **Next**  
 
-## Thông tin của bạn có trên Dark Web?  
+Trang tiếp tục chuyển hướng mời bạn nhận gói Microsoft 365 developer subscription, như vậy là bạn đã thành công 50% rồi đấy  
 
-Câu hỏi hay đấy. Nếu bạn không thể truy cập dark web bằng cách thông thường, vậy làm thế nào bạn biết liệu dữ liệu của mình có được giao dịch trên thị trường chợ đen này hay không?  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_008.jpg)
 
-Bạn chỉ cần thiết lập các kết nối bảo mật, cài đặt Tor, hoặc các trình duyệt tương tự và tìm hiểu cách thiết lập nó an toàn. Bạn sẽ tìm ra nơi cần tìm và những gì cần tránh sớm thôi.  
+##Bước 2: Tạo tài khoản Office 365  
+Ấn nút **Set up E5 subscription:**
 
-Nghiêm túc mà nói, dark web không phải là nơi dành cho đàn ông đang mang thai, và trẻ em đang cho con bú.  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_007.jpg)  
 
- ![Dark Web Là Gì?](/assets/img/blog/dark-web-la-gi.jpg)  
+Nhập đầy đủ thông tin rồi ấn **Continue:**  
 
-Các doanh nghiệp như Norton, Experian và các doanh nghiệp khác cung cấp dịch vụ giám sát dark web, quét các trang dark web để tìm dữ liệu có sẵn để bán. Các công cụ tìm kiếm thường sử dụng thông tin cá nhân và địa chỉ email (của bạn hoặc của nhân viên) để xem thông tin tài khoản có bán được không. Nếu đây là trường hợp của bạn, bây giờ bạn biết rằng bạn cần phải thực hiện các bước sau ngay lập tức để bảo vệ dữ liệu của mình: Đổi mật khẩu, cập nhập tường lửa, mã hoá dữ liệu và thông báo cho chủ tài khoản.  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_006.jpg)  
 
-Điều cuối cùng hơi khó thực hiện, nhưng tốt hơn là cảnh báo khách hàng ngay bây giờ và cho khách hàng thấy việc này nghiêm trọng như thế nào.  
+Nhập số điện thoại rồi ấn **Send Code** để Microsoft gửi mã xác nhận về điện thoại của bạn:  
 
-Ngay cả khi việc quét dark web không ảnh hưởng đến doanh nghiệp của bạn, đừng nghĩ rằng bạn có thể an toàn. Rất khó để có thể thấy được mọi ngóc ngách của dark web, vì vậy vẫn có khả năng dữ liệu kinh doanh của bạn sẽ nằm ở đâu đó.  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_005.jpg)
 
-## Đặt giao thức mật khẩu cho toàn công ty  
+Sau khi đã xác nhận, hãy đợi 1 lúc tùy theo tốc độ internet của bạn:
 
-Rất nhiều dữ liệu bị đánh cắp được tìm thấy trên dark web xuất phát từ các tài khoản kinh doanh của nhân viên hoặc là của bạn. Đây có thể là các tài khoản chính như Capital One cho đến các tài khoản giải trí, vô tội như Words With Friends. Facebook đã xâm phạm thông tin hơn 540 triệu người dùng vào năm 2019 bằng cách để các thông tin đó bị lộ trên một máy chủ không được bảo vệ.  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_004.jpg)
 
-Chuyện này có khả năng sẽ tiếp tục xảy ra bấp chấp các nỗ lực của chuyên gia an ninh mạng trên toàn thế giới. Tuy nhiên, điều mà tội phạm mạng lợi dụng là kiến thức bảo mật thông tin của mình. Ví dụ: ta thường có thói quen đặt một mật khẩu cho toàn bộ các tài khoản của mình chẳng hạn.  
+Và đây là kết quả:  
 
-Khi người khác mua dữ liệu chứa mật khẩu của một tài khoản, họ có thể truy cập vào các tài khoản cùng mật khẩu khác – ngay cả tài khoản doanh nghiệp của bạn – do đó việc đánh cắp dữ liệu,danh tính và lừa đảo sẽ dễ dàng hơn nhiều. Để bảo vệ dữ liệu của bạn khỏi Dark Web bạn cần thường xuyên đổi password và nên đặt mỗi tài khoản có 1 password khác nhau.  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_003.jpg)
 
-Doanh nghiệp của bạn có thể chống lại điều này bằng cách thiết lập các giao thức mật khẩu nghiêm ngặt cho tất cả nhân viên và đặc biệt là khách hàng. Đừng quên những lời khuyên về bảo mật cho khách hàng:  
+Như vậy là đã tạo tài khoản Office 365 thành công, bây giờ nếu đã cài đặt bộ office trên máy thì bạn chỉ cần đăng nhập acc đuôi onmicrosoft.com này vào sẽ tự kích hoạt. Còn nếu bạn chưa cài đặt phần mềm thì chuyển sang bước 3.  
 
-* Mật khẩu mạnh gồm có số, chữ cái và ký tự đặc biệt.    
-* Không sử dụng tên, ngày sinh hoặc các thông tin dễ đoán để đặt mật khẩu.  
-* Sử dụng xác thực hai yếu tố.  
-* Thay đổi mật khẩu thường xuyên. Không bao giờ dùng lại mật khẩu và chia sẻ cho người khác.  
-* Sử dụng trình quản lý mật khẩu đủ an toàn.  
+##Bước 3: Cài đặt Office 365  
+Hãy ấn nút **Go to subscription**, trang sẽ chuyển hướng hỏi mật khẩu acc onmicrosoft.com bạn tạo ở trên:  
 
-## Không chỉ là mật khẩu  
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_002.jpg)
 
-Mật khẩu thôi là chưa đủ, dưới đây là các cách khác để bảo vệ doanh nghiệp của bạn khỏi các cuộc tấn công mạng:  
+Sau khi nhập mật khẩu và đăng nhập, bạn vào link sau: https://j2c.cc/InstallOffice  
 
-* Xây dựng hệ thống tường lửa đủ mạnh  
-* Sử dụng hệ thống quản lý sự kiện và thông tin bảo mật (SIEM)  
-* Sử dụng VPN, tránh WiFi công cộng  
-* Có phần mềm bảo mật cho di động.  
-* Áp dụng mã hoá dữ liệu  
-* Huấn luyện nhân viên về thực hành email an toàn và cách tránh lừa đảo  
-Bạn có thể giữ dữ liệu doanh nghiệp và khách hàng của bạn an toàn, nhưng cần nỗ lực và kiên trì. Thực hiện việc bảo vệ doanh nghiệp của bạn chống lại các nguy cơ bị đánh cắp dữ liệu.    
+![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_001.jpg)
 
-Nguồn: anonyviet
+Tại đây bạn chỉ cần chọn ngôn ngữ rồi ấn nút **Cài đặt Office**, file sẽ tự động tải về máy. Như vậy là xong, sau khi cài đặt bạn chỉ cần đăng nhập acc Microsoft mới tạo bên trên vào là có thể kích hoạt.  
+
+⚠ **Note**:
+- Acc kích hoạt = acc đuôi onmicrosoft, còn acc tham gia Microsoft Developer chỉ để nhận mail về acc đuôi onmicrosoft nên không có tác dụng kích hoạt.
+- Một acc đuôi onmicrosoft có thể kích hoạt 5 máy và mỗi máy chỉ chứa 1 acc onmicrosoft, hết hạn thì nó tự gia hạn, miễn các bác có đăng nhập acc onmicrosoft vào 1 máy nào đó để kích hoạt office là được.
+- Nếu tạo mà không dùng thì sau này sẽ bị hủy, vì vậy chỉ tạo đủ để kích hoạt, tham lam tạo nhiều acc dư ra mà không kích hoạt thì nó hủy cũng như không. Nên đừng có ý định tạo nhiều để dự trữ hay đem bán. Microsoft biết hết hành tung của các bác dựa theo cách các bác sử dụng acc, đừng thấy hoa nở mà ngỡ xuân về =]]
