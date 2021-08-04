@@ -2,7 +2,7 @@
 layout: post
 title:  Basic Syntax | Markdown Guide
 image:  
-  path: /assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_013.jpg
+  path: /assets/img/blog/1200px-Markdown-mark.svg.png
 canonical_url: https://photos.xtapo.com
 hide_image: false
 accent_color: '#4fb1ba'
