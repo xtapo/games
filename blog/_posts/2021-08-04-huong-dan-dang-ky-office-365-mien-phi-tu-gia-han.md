@@ -19,7 +19,7 @@ tag: office365, Microsoft, Word, Excel, Office, Powerpoint
 ⚠ Lưu ý trước khi tiếp tục: Hướng dẫn sau cần account Microsoft, nếu chưa có thì bạn tạo trước nhé.
 
 ## Bước 1: Tham gia Microsoft 365 Developer Program  
-Đầu tiên các bạn vào link sau ấn nút **Join now**: https://j2c.cc/257e4abc  
+Đầu tiên các bạn vào link sau ấn nút **Join now**: [Đăng ký Office 365 Miễn Phí](http://gestyy.com/eoFFeT){:target="_blank"}   
 
 ![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_012.jpg)  
 
@@ -78,4 +78,7 @@ Tại đây bạn chỉ cần chọn ngôn ngữ rồi ấn nút **Cài đặt O
 ⚠ **Note**:
 - Acc kích hoạt = acc đuôi onmicrosoft, còn acc tham gia Microsoft Developer chỉ để nhận mail về acc đuôi onmicrosoft nên không có tác dụng kích hoạt.
 - Một acc đuôi onmicrosoft có thể kích hoạt 5 máy và mỗi máy chỉ chứa 1 acc onmicrosoft, hết hạn thì nó tự gia hạn, miễn các bác có đăng nhập acc onmicrosoft vào 1 máy nào đó để kích hoạt office là được.
-- Nếu tạo mà không dùng thì sau này sẽ bị hủy, vì vậy chỉ tạo đủ để kích hoạt, tham lam tạo nhiều acc dư ra mà không kích hoạt thì nó hủy cũng như không. Nên đừng có ý định tạo nhiều để dự trữ hay đem bán. Microsoft biết hết hành tung của các bác dựa theo cách các bác sử dụng acc, đừng thấy hoa nở mà ngỡ xuân về =]]
+- Nếu tạo mà không dùng thì sau này sẽ bị hủy, vì vậy chỉ tạo đủ để kích hoạt, tham lam tạo nhiều acc dư ra mà không kích hoạt thì nó hủy cũng như không. Nên đừng có ý định tạo nhiều để dự trữ hay đem bán.  
+
+
+Nguồn lethinhrider
