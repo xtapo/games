@@ -16,15 +16,9 @@ description: >
 tag: Markdown, Guide
 ---
 
-
-<!DOCTYPE html>
-<html lang="en">
   <head>
 
-
-
   <meta charset="utf-8">
-
 
   <title>Basic Syntax | Markdown Guide</title>
 
