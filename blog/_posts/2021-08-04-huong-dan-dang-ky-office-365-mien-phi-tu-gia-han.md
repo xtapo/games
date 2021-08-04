@@ -41,7 +41,7 @@ Trang tiếp tục chuyển hướng mời bạn nhận gói Microsoft 365 devel
 
 ![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_008.jpg)
 
-##Bước 2: Tạo tài khoản Office 365  
+## Bước 2: Tạo tài khoản Office 365  
 Ấn nút **Set up E5 subscription:**
 
 ![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_007.jpg)  
@@ -64,7 +64,7 @@ Và đây là kết quả:
 
 Như vậy là đã tạo tài khoản Office 365 thành công, bây giờ nếu đã cài đặt bộ office trên máy thì bạn chỉ cần đăng nhập acc đuôi onmicrosoft.com này vào sẽ tự kích hoạt. Còn nếu bạn chưa cài đặt phần mềm thì chuyển sang bước 3.  
 
-##Bước 3: Cài đặt Office 365  
+## Bước 3: Cài đặt Office 365  
 Hãy ấn nút **Go to subscription**, trang sẽ chuyển hướng hỏi mật khẩu acc onmicrosoft.com bạn tạo ở trên:  
 
 ![Office 365 Miễn Phí](/assets/img/blog/huong-dan-dang-ky-office-365-mien-phi-tu-gia-han/dang_ky_office_365_mien_phi_002.jpg)
