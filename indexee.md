@@ -21,7 +21,7 @@ I created this personal website to keep track of my projects, talk about my expe
 * [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
 {:.related-posts.faded}
 
-[blog]: blog-posts/
+[blog11111]: blog-posts/
 [projects]: projects/
 [mini-projects]: mini-projects/
 [certifications]: certifications/

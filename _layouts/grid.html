@@ -28,5 +28,10 @@ layout: page
     {% include_cached pro/post-card.html post=post featured=featured %}
   </div>
 
+  {% if plugins contains 'jekyll-paginate' %}
+    {% include components/pagination.html %}
+  {% endif %}
+
+
   {% if forloop.last %}</div>{% endif %}
 {% endfor %}
