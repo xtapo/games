@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: games
 title: Themes
 slug: themes
 menu: true
