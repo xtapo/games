@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   HypertextAssassin0273.github.io
+url:                   xtapo.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,7 +12,7 @@ url:                   HypertextAssassin0273.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl:               '/games'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -95,19 +95,19 @@ defaults:
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
-        
+
    # Don't include documents in assets in the sitemap
   - scope:
       path:            assets/
     values:
       sitemap:         false
-      
+
   # You can use the following to enable comments on all posts.
  # - scope:
      # type:            posts
    # values:
      # comments:        true
-      
+
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
@@ -181,7 +181,7 @@ hydejack:
   # This will increase site build speed dramatically!
   no_inline_css:       false
 
-  # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
   no_page_style:       false
 
@@ -220,7 +220,7 @@ hydejack:
   advertise:           false
 
   # Buyers of the PRO version can opt to hide all dates from the theme.
-  # Frequent consumers of online content will know that nothing devalues a post like seeing an old date. 
+  # Frequent consumers of online content will know that nothing devalues a post like seeing an old date.
   hide_dates:          false
 
   # Note that dark mode only works in the PRO version of Hydejack.
@@ -336,21 +336,21 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
