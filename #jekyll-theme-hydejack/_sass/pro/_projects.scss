@@ -17,19 +17,19 @@ main:not(.layout-resume) {
     float: left;
     padding-left: $gutter;
     margin-bottom: 1.5rem;
-    height: 100%;
+    width: 100%;
     display: flex;
   }
 
   @media screen and (min-width: $break-point-1) {
-    .column-1-2 { height: 50%; }
+    .column-1-2 { width: 50%; }
   }
 
   @media screen and (min-width: $break-point-dynamic) {
     .columns-break {
-      height: calc(50vw + #{$half-content} - 6rem);
+      width: calc(50vw + #{$half-content} - 6rem);
       > .column-1-2, > .column-1 {
-        height: ($content-height-5 / 2) - ($gutter / 2);
+        width: ($content-width-5 / 2) - ($gutter / 2);
       }
     }
   }
@@ -41,13 +41,13 @@ main:not(.layout-resume) {
 
     .column {
       display: block;
-      height: 50%;
+      width: 50%;
     }
   }
 
   .project-card {
     @extend .color-transition;
-    height: 100%;
+    width: 100%;
     color: var(--gray-text);
     background-color: var(--gray-bg);
     padding-bottom: .75rem;
