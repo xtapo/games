@@ -1,6 +1,6 @@
 ---
 title:  Download Free The Events Calendar Pro 5.10 - Plugin Wordpress
-image: /assets/img/themes/Events-Calendar-PRO.jpg
+image: /assets/img/themes/polylang-pro.jpg
 categories: [plugins]
 description: >
   If you need a deeper level of support or a faster response to your specific question, our Events Calendar PRO add-on includes access to our premium support ...

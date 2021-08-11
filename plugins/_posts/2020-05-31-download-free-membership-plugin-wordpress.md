@@ -1,6 +1,6 @@
 ---
 title:  Download Free Membership 1.8.7 - Plugin for WordPress
-image: /assets/img/themes/MemberPress.jpg
+image: /assets/img/themes/polylang-pro.jpg
 categories: [plugins]
 description: >
   Download Free Membership Plugin for WordPress. MemberPress will help you build astounding WordPress membership sites, accept credit cards securely, ...

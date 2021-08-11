@@ -1,6 +1,6 @@
 ---
 title:  Download Free Elementor Pro 2.9.8 - Page Builder WordPress
-image: /assets/img/themes/Elementor-Pro-WordPress-Plugin-Free-696x363-1.png
+image: /assets/img/themes/polylang-pro.jpg
 categories: [plugins]
 description: >
   Download Free Elementor Pro is the best FREE WordPress Website Builder, with over 5 million active installs. Create beautiful sites and pages using a drag and drop interface.
@@ -17,7 +17,7 @@ Never again work on the backend and guess what the frontend will look like. With
 SURPRISES YOU WON’T SEE ANYWHERE ELSE.  
 With Elementor’s unique features, you can create websites that have that certain ‘designer touch’. Among our page builder features are: Box Shadows, Background Overlays, Hover Effects, Headline Effects, Animations, Shape Dividers, Gradient Backgrounds and much more.  
 
-PRE-DESIGNED TEMPLATES & BLOCKS. 
+PRE-DESIGNED TEMPLATES & BLOCKS.
 Choose from 100+ of beautiful full page WordPress templates and customize them to make them your own. You can also build your page by choosing from 300+ Blocks.  
 
 Blocks are pre-designed section templates that can be easily combined into any page. Blocks include a variety of categories: services, testimonials, call to action and more. Save and reuse Elementor templates on different pages, or export them to a different website with a click.  

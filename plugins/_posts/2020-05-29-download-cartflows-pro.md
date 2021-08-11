@@ -1,6 +1,6 @@
 ---
 title:  Funnel Builder by CartFlows Pro – Create High Converting Sales Funnels For WordPress
-image: /assets/img/themes/cartflows.jpg
+image: /assets/img/themes/polylang-pro.jpg
 categories: [plugins]
 description: >
   Create conversion optimized sales funnels to WordPress websites complete with order bumps, one-click upsells, cart abandonment recovery, and more...

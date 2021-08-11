@@ -1,6 +1,6 @@
 ---
 title:  Download Free FS Poster 3.6.4  - WordPress Auto Poster & Scheduler
-image: /assets/img/themes/FS-Poster.jpg
+image: /assets/img/themes/polylang-pro.jpg
 categories: [plugins]
 description: >
   Download Free FS Poster - WordPress Auto Poster & Scheduler by fs-code on CodeCanyon. Wordpress auto-poster/reposter plugin which supports ...

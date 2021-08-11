@@ -1,6 +1,6 @@
 ---
 title:  Download Free Lumise 1.8 - Product Designer for WooCommerce WordPress
-image: /assets/img/themes/lumise_woo_preview.jpg
+image: /assets/img/themes/polylang-pro.jpg
 categories: [plugins]
 description: >
   Download Free Lumise Product Designer v1.8 - WooCommerce WordPress. Lumise is the skilled product designer instrument , constructed by HTML5...
