@@ -1,7 +1,7 @@
 ---
-title:  Download Free Ajax Search Pro 4.18.4 - Live WordPress Search & Filter Plugin
+title:  Dragon Ball Xenoverse 2 Deluxe Edition
 image: /assets/img/themes/polylang-pro.jpg
-categories: [plugins]
+categories: [ps4]
 description: >
   Ajax search pro is the best live search engine plugin for WordPress. Highly customizable, with many features and options, giving the best results possible! Replace the WordPress search bar with a better looking, more efficient search engine.
 ---
