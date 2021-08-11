@@ -33,10 +33,10 @@
 .mt4 { margin-top: 4rem }
 .pb0 { padding-bottom: 0 }
 
-.sixteen-nine { @include aspect-ratio(9, 16); }
+.sixteen-nine { @include aspect-ratio(16, 9); }
 .sixteen-ten { @include aspect-ratio(16, 10); }
 .four-three { @include aspect-ratio(4, 3); }
-
+.four-six { @include aspect-ratio(4, 6); }
 .sr-only {
 //   display: none;
   display: unset;
