@@ -17,7 +17,7 @@
 table:not(.highlight) {
   @extend .figure-base;
   border-collapse: collapse;
-  display: block;
+  display: contents;
   margin-bottom: 1rem;
 
   td, th {
