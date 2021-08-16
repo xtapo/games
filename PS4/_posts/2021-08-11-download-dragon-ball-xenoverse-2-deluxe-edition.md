@@ -1,9 +1,9 @@
 ---
 title:  Dragon Ball Xenoverse 2 Deluxe Edition
-image: /assets/img/themes/polylang-pro.jpg
+image: /assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg
 categories: [ps4]
 description: >
-  Ajax search pro is the best live search engine plugin for WordPress. Highly customizable, with many features and options, giving the best results possible! Replace the WordPress search bar with a better looking, more efficient search engine.
+  Dragon Ball Xenoverse 2 is a role-playing video game developed by Dimps and published by Bandai Namco Entertainment based on the Dragon Ball franchise, and is the sequel to the 2015 game Dragon Ball Xenoverse. It was released in October 25, 2016 for PlayStation 4 and Xbox One, and on October 27 for Microsoft Windows.
 ---
 
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
