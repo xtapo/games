@@ -7,7 +7,6 @@ description: >
 ---
 
 <table border="7">
-<tbody>
 <tr>
 <td rowspan="7" bgcolor="#98F5FF">
 <div style="text-align: center;"><img loading="lazy" src="/games/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg" alt="" width="165" height="200"></div>
@@ -46,7 +45,6 @@ description: >
 <div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">Action</span></div>
 </td>
 </tr>
-</tbody>
 </table>
 
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
