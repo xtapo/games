@@ -50,7 +50,7 @@ description: >
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/R7B7ZvcrOXQ" width="459" height="344" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/R7B7ZvcrOXQ" width="560" height="315" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
