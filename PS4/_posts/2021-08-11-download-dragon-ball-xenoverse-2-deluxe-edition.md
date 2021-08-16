@@ -65,6 +65,7 @@ $$
         <li>Tài liệu học PHP</li>
     </ul>
 </details>
+$$
 An optional caption for a math block
 {:.figcaption}
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
