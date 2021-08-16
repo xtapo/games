@@ -48,10 +48,17 @@ description: >
 </table>
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| First body part | Second cell  | Third cell      | fourth cell    |
+| Second line     | foo          | **strong**      | baz            |
+| Third line      | quux         | baz             | bar            |
+|-----------------+--------------+-----------------+----------------|
+| Second body     |              |                 |                |
+| 2nd line        |              |                 |                |
+|-----------------+--------------+-----------------+----------------|
+| Third body      |              |                 | Foo            |
+{: .custom-class #custom-id}
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
 
 Shortcodes and widgets compatible with page builders, such as: Elementor, WPBakery Page builder (and Visual Composer), Divi Page Builder and others...  
