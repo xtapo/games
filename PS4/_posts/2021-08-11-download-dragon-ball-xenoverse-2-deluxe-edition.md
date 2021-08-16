@@ -54,7 +54,7 @@ description: >
 </figure>
 <!-- blank line -->
 
-
+$$
 <details>
     <summary>Loạt tài liệu hướng dẫn học Lập Trình Web gồm:</summary>
     <ul>
@@ -65,7 +65,8 @@ description: >
         <li>Tài liệu học PHP</li>
     </ul>
 </details>
-
+An optional caption for a math block
+{:.figcaption}
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
 
 Shortcodes and widgets compatible with page builders, such as: Elementor, WPBakery Page builder (and Visual Composer), Divi Page Builder and others...  
