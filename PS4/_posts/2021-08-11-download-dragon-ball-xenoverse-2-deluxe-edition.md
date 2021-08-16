@@ -48,12 +48,6 @@ description: >
 </table>
 
 
-
-|-----------------|:------------:|
-| First body part | Second cell  |
-| Second line     | foo          |
-| Third line      | quux         |
-
 {: .custom-class #custom-id}
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
 
