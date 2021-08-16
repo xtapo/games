@@ -46,7 +46,7 @@ description: >
 </td>
 </tr>
 </table>
-
+ > Dragon Ball Xenoverse 2 is a role-playing video game developed by Dimps and published by Bandai Namco Entertainment based on the Dragon Ball franchise, and is the sequel to the 2015 game Dragon Ball Xenoverse. It was released in October 25, 2016 for PlayStation 4 and Xbox One, and on October 27 for Microsoft Windows.  
 
 <!-- blank line -->
 <figure class="video_container">
