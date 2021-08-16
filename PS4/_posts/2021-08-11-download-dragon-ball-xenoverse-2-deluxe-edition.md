@@ -6,6 +6,49 @@ description: >
   Dragon Ball Xenoverse 2 is a role-playing video game developed by Dimps and published by Bandai Namco Entertainment based on the Dragon Ball franchise, and is the sequel to the 2015 game Dragon Ball Xenoverse. It was released in October 25, 2016 for PlayStation 4 and Xbox One, and on October 27 for Microsoft Windows.
 ---
 
+<table border="7">
+<tbody>
+<tr>
+<td rowspan="7" bgcolor="#98F5FF">
+<div style="text-align: center;"><img loading="lazy" src="/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg" alt="" width="165" height="200"></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#00FA9A">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace; font-weight: normal;">GAME NAME</span></div>
+</td>
+<td bgcolor="#FFF68F">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">Dragon Ball Xenoverse 2 </span></div>
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">Deluxe Edition</span></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#00FA9A">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace; font-weight: normal;">LANGUAGE</span></div>
+</td>
+<td bgcolor="#FFF68F">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">Multi</span></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#00FA9A">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace; font-weight: normal;">RELEASE</span></div>
+</td>
+<td bgcolor="#FFF68F">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">2016</span></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#00FA9A">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace; font-weight: normal;">GENRE</span></div>
+</td>
+<td bgcolor="#FFF68F">
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">Action</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
 
 Shortcodes and widgets compatible with page builders, such as: Elementor, WPBakery Page builder (and Visual Composer), Divi Page Builder and others...  
