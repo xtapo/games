@@ -55,6 +55,47 @@ description: >
 <!-- blank line -->
 
 
+<div class="accordion" id="myaccordion" style="max-width: 320px">
+
+    <div class="card">
+        <div class="card-header btn"  data-toggle="collapse" data-target="#noidungcard1" aria-expanded="true"
+             data-parent="#myaccordion">
+            Header của Card 1
+        </div>
+        <div class="card-body collapse show"  data-toggle="collapse"  aria-expanded="false" id="noidungcard1">
+            <h5 class="card-title">Tiêu đề Card 1</h5>
+            <h6 class="card-subtitle mb-1 text-muted">Ví dụ mẫu sử dụng Card</h6>
+            <p class="card-text">Nội dung bên trong Card 1 Nội dung bên trong Card 1 Nội dung bên trong Card 1 Nội dung bên trong Card 1</p>
+        </div>    
+    </div>
+
+    <div class="card">
+        <div class="card-header btn"  data-toggle="collapse" data-target="#noidungcard2" data-parent="#myaccordion">
+            Header của Card 2
+        </div>
+        <div class="card-body collapse"  data-toggle="collapse"  aria-expanded="false" id="noidungcard2">
+            <h5 class="card-title">Tiêu đề Card 2</h5>
+            <h6 class="card-subtitle mb-1 text-muted">Ví dụ mẫu sử dụng Card</h6>
+            <p class="card-text">Nội dung văn bản trong <code>.card-body</code> này sử dụng <code>.card-text</code>.</p>
+            <a href="#" class="btn btn-primary">Nút bấm</a>
+        </div>
+
+    </div>
+
+    <div class="card">
+        <div class="card-header btn"  data-toggle="collapse" data-target="#noidungcard3" data-parent="#myaccordion">
+            Header của Card 3
+        </div>
+        <div class="card-body collapse"  data-toggle="collapse"  aria-expanded="false" id="noidungcard3">
+            <h5 class="card-title">Tiêu đề Card 3</h5>
+            <h6 class="card-subtitle mb-1 text-muted">Ví dụ mẫu sử dụng Card 3</h6>
+            <p class="card-text text-danger">Nội dung văn bản trong <code>.card-body</code> này sử dụng <code>.card-text</code>.</p>
+        </div>
+
+    </div>
+
+</div>
+
 Looking for a better WordPress search? Check out this search plugins features, including checkbox, dropdown, radio button category filters and custom field (post meta) filters as well.  
 
 Shortcodes and widgets compatible with page builders, such as: Elementor, WPBakery Page builder (and Visual Composer), Divi Page Builder and others...  
