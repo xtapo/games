@@ -3,7 +3,7 @@ title:  Dragon Ball Xenoverse 2 Deluxe Edition
 image: /assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg
 categories: [ps4]
 description: >
-  Dragon Ball Xenoverse 2 is a role-playing video game developed by Dimps and published by Bandai Namco Entertainment based on the Dragon Ball franchise, and is the sequel to the 2015 game Dragon Ball Xenoverse. It was released in October 25, 2016 for PlayStation 4 and Xbox One, and on October 27 for Microsoft Windows.
+  Download Free Dragon Ball Xenoverse 2 PS4
 ---
 
 <table border="7">
