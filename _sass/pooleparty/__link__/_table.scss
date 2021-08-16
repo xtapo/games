@@ -26,7 +26,7 @@
 table:not(.highlight) {
   @extend .figure-base;
   border-collapse: collapse;
-  display: block;
+  display: contents;
   margin-bottom: 1rem;
 
   td, th {
@@ -179,4 +179,3 @@ table.flip-table {
     width: 100%!important;
   }
 }
-
