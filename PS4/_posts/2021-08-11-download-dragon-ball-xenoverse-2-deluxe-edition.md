@@ -14,7 +14,7 @@ description: >
 </tr>
 <tr>
 <td bgcolor="#00FA9A">
-<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace; font-weight: normal;">GAME NAME</span></div>
+<div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace; font-weight: normal; font-size: 22px">GAME NAME</span></div>
 </td>
 <td bgcolor="#FFF68F">
 <div style="text-align: center;"><span style="font-family: Courier New, Courier, monospace;">Dragon Ball Xenoverse 2 </span></div>
