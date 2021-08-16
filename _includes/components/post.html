@@ -27,10 +27,10 @@
       {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
     </div>
 
-    {% assign alt = false %}
+  <!--ảnh đại diện đầu bài viết    {% assign alt = false %}
     {% unless hide_image %}{% if post.image %}
       {% unless no_link_title %}<a href="{{ post.url | relative_url }}" class="no-hover no-print-link {% unless post.hide_image %}flip-project{% endunless %}" tabindex="-1">{% endunless %}
-        <!--ảnh đại diện đầu bài viết <div class="lead aspect-ratio one-one flip-project-img">
+       <div class="lead aspect-ratio one-one flip-project-img">
           {% include_cached components/hy-img.html img=post.image alt=post.title width=407 height=509 %}
         </div>  -->
       {% unless no_link_title %}</a>{% endunless %}
