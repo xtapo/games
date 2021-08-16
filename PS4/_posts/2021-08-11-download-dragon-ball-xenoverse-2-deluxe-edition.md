@@ -56,7 +56,7 @@ description: >
 
 
 <details>
-    <summary>Loạt tài liệu hướng dẫn học Lập Trình Web gồm:</summary>
+    <summary>Link Download:</summary>
     <ul>
         <li>Tài liệu học HTML</li>
         <li>Tài liệu học CSS</li>
