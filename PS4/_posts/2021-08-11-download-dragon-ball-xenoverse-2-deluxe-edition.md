@@ -5,7 +5,7 @@ categories: [ps4]
 description: >
   Download Free Dragon Ball Xenoverse 2 PS4
 ---
-{% include accordion.html %}
+
 <table border="7">
 <tr>
 <td rowspan="7" bgcolor="#98F5FF">
@@ -70,6 +70,7 @@ description: >
     Password: downloadgameps3.com
 </details>  
 
+{% include accordion.html %}
 ---
 ---
 
