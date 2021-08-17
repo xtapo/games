@@ -80,7 +80,15 @@ accordion:
     content: ưefwefwef
 ---  
 
+{% capture details %}
+DETAILS
+{% endcapture %}
+{% capture summary %}SUMMARY{% endcapture %}{% include details.html %}
 
+<details markdown=block>
+<summary markdown=span>A *Summary*</summary>
+These are the **details** for this item.
+</details>
 
 
 ![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-2.jpg)
