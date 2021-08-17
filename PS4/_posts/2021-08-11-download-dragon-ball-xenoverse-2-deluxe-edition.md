@@ -90,7 +90,7 @@ Language: English, French, Spanish, German, Italian, Japanese
 Note: Update v1.21 will only work with the provided Base Game. Repackage to make it work with your own base.  
 </details>  
 
-
+----------
 <details markdown=block>
 <summary markdown=span>DLC Content: Deluxe Edition</summary>
 SUPER PACK 1  
@@ -150,52 +150,54 @@ EXTRA PACK 3
 – 8 New Skills.  
 – 2 New Super Souls.  
 
-EXTRA PACK 4
+EXTRA PACK 4  
 
-– 2 New characters: SSGSS Gogeta and Broly (Full Power Super Saiyan).
-– 1 New stage.
-– 5 New Parallel Quests.
-– 8 Additional Skills.
-– 2 Costumes.
-– 15 Super Souls.
+– 2 New characters: SSGSS Gogeta and Broly (Full Power Super Saiyan).  
+– 1 New stage.  
+– 5 New Parallel Quests.  
+– 8 Additional Skills.  
+– 2 Costumes.  
+– 15 Super Souls.  
 
-ULTRA PACK 1
+ULTRA PACK 1  
 
-– 3 New characters: Ribrianne, SSGSS Vegeta (Evolved), Vegeta (Super Saiyan God).
-– 5 New Parallel Quests.
-– 10 Additional Skills.
-– 4 Costumes.
-– 8 Super Souls.
+– 3 New characters: Ribrianne, SSGSS Vegeta (Evolved), Vegeta (Super Saiyan God).  
+– 5 New Parallel Quests.  
+– 10 Additional Skills.  
+– 4 Costumes.  
+– 8 Super Souls.  
 
-ULTRA PACK 2
+ULTRA PACK 2  
 
-– 2 New characters: Android 21 (DB FighterZ), Majuub.
-– 5 New Parallel Quests.
-– 8 Additional Skills.
-– 5 Costumes/Accessories.
-– 8 Super Souls.
+– 2 New characters: Android 21 (DB FighterZ), Majuub.  
+– 5 New Parallel Quests.  
+– 8 Additional Skills.  
+– 5 Costumes/Accessories.  
+– 8 Super Souls.  
 
-PRE-ORDER BONUS
+PRE-ORDER BONUS  
 
-– A playable character: Goku Black from DRAGON BALL SUPER.
-– Rewarded the Tao Pai Pai Stick vehicle.
+– A playable character: Goku Black from DRAGON BALL SUPER.  
+– Rewarded the Tao Pai Pai Stick vehicle.  
 
-FUTURE TRUNKS
+FUTURE TRUNKS  
 
-– Early access to the character Future Trunks from DRAGON BALL SUPER.
+– Early access to the character Future Trunks from DRAGON BALL SUPER.  
 
-MASTERS PACK
+MASTERS PACK  
 
-– Get this pack that includes 5 Dragon Ball Masters, including Android 16, Bardock, Cooler, Whis and Future Gohan.
+– Get this pack that includes 5 Dragon Ball Masters, including Android 16, Bardock, Cooler, Whis and Future Gohan.  
 
-STEVE AOKI PACK (Only CUSA05088 – EUR)
+STEVE AOKI PACK (Only CUSA05088 – EUR)  
 
-ANIME MUSIC PACK 1 (Only CUSA05088 – EUR)
+ANIME MUSIC PACK 1 (Only CUSA05088 – EUR)  
 
-ANIME MUSIC PACK 2 (Only CUSA05088 – EUR)
+ANIME MUSIC PACK 2 (Only CUSA05088 – EUR)  
 
 ……………………………………  
 </details>  
+
+----------
 ![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-2.jpg)  
 ![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-3.jpg)  
 ![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-4.jpg)  
