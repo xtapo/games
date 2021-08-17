@@ -71,15 +71,13 @@ description: >
 </details>  
 
 {% include accordion.html %}
----
----
 
+---
 accordion:
   - title: dfwef
     content: èwefwef.
   - title: ewfwefef
     content: ưefwefwef
-
 ---  
 
 
