@@ -69,9 +69,10 @@ Game : [Lets]() – [Zippy](https://ouo.io/1KqwzGH){:target="_blank"} – [1File
 Update 1.25 : [Lets]() – [Zippy](https://ouo.io/KqNdI6){:target="_blank"} – [1File](https://ouo.io/raQRwu0){:target="_blank"}    
 All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/XbzXPm){:target="_blank"} – [1File](https://ouo.io/tK7Bbc){:target="_blank"}      
 Password: downloadgameps3.com.
-</details>
+</details>  
 
 
-![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-2.jpg)
-![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-3.jpg)
-![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-4.jpg)
+
+![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-2.jpg)  
+![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-3.jpg)  
+![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-4.jpg)  
