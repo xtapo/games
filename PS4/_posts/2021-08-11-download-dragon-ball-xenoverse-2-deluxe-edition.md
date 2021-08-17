@@ -1,6 +1,6 @@
 ---
 title:  Dragon Ball Xenoverse 2 Deluxe Edition
-image: /assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg
+image: /assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-1.jpeg
 categories: [ps4]
 description: >
   Download Free Dragon Ball Xenoverse 2 PS4
@@ -9,7 +9,7 @@ description: >
 <table border="7">
 <tr>
 <td rowspan="7" bgcolor="#98F5FF">
-<div style="text-align: center;"><img loading="lazy" src="/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg" alt="" width="165" height="200"></div>
+<div style="text-align: center;"><img loading="lazy" src="/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-1.jpeg" alt="" width="165" height="200"></div>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ description: >
 <!-- blank line -->
 
 
-![Download Games PS4](/assets/img/download.png){:target="_blank"}  
+![Download Games PS4](/assets/img/download.png)
 
 ## CUSA05088 – EUR
 <details>
@@ -63,9 +63,13 @@ description: >
     Note: Game for PS4 – not use PS3    
     CUSA05088 – EUR  
     Thank @Opoisso893/Golemnight  
-    Note : Link Zippy only use with [Jdownload2](https://ouo.io/rG8tH2)  
-    Game : [Lets]() – [Zippy](https://ouo.io/1KqwzGH) – [1File](https://ouo.io/EB5Adu)  
-    Update 1.25 : [Lets]() – [Zippy](https://ouo.io/KqNdI6) – [1File](https://ouo.io/raQRwu0)  
-    All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/XbzXPm) – [1File](https://ouo.io/tK7Bbc)    
+    Note : Link Zippy only use with [Jdownload2](https://ouo.io/rG8tH2){:target="_blank"}    
+    Game : [Lets]() – [Zippy](https://ouo.io/1KqwzGH){:target="_blank"} – [1File](https://ouo.io/EB5Adu){:target="_blank"}    
+    Update 1.25 : [Lets]() – [Zippy](https://ouo.io/KqNdI6){:target="_blank"} – [1File](https://ouo.io/raQRwu0){:target="_blank"}    
+    All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/XbzXPm){:target="_blank"} – [1File](https://ouo.io/tK7Bbc){:target="_blank"}      
     Password: downloadgameps3.com
 </details>
+
+![Download Games PS4](/assets/img/download-dragon-ball-xenoverse-2-deluxe-edition-2.jpg)
+![Download Games PS4](/assets/img/download-dragon-ball-xenoverse-2-deluxe-edition-3.jpg)
+![Download Games PS4](/assets/img/download-dragon-ball-xenoverse-2-deluxe-edition-4.jpg)
