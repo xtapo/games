@@ -71,6 +71,7 @@ description: >
 </details>  
 
 ---
+---
 accordion:
   - title: dfwef
     content: èwefwef.
