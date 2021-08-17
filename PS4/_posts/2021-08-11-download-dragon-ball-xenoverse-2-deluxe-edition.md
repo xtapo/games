@@ -58,36 +58,17 @@ description: >
 ![Download Games PS4](/assets/img/download.png)
 
 ## CUSA05088 – EUR
-<details>
-    <summary>Link Download:</summary>
-    Note: Game for PS4 – not use PS3    
-    CUSA05088 – EUR  
-    Thank @Opoisso893/Golemnight  
-    Note : Link Zippy only use with <a href="https://ouo.io/rG8tH2" target="_blank">Jdownload2</a>
-    Game : [Lets]() – <a href="https://ouo.io/1KqwzGH" target="_blank">Zippy</a> – <a href="https://ouo.io/EB5Adu" target="_blank">1File]</a>
-    Update 1.25 : [Lets]() – [Zippy](https://ouo.io/KqNdI6){:target="_blank"} – [1File](https://ouo.io/raQRwu0){:target="_blank"}    
-    All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/XbzXPm){:target="_blank"} – [1File](https://ouo.io/tK7Bbc){:target="_blank"}      
-    Password: downloadgameps3.com
-</details>  
-
-{% include accordion.html %}
-
----
-accordion:
-  - title: dfwef
-    content: èwefwef.
-  - title: ewfwefef
-    content: ưefwefwef
----  
-
-{% capture details %}
-DETAILS
-{% endcapture %}
-{% capture summary %}SUMMARY{% endcapture %}{% include details.html %}
 
 <details markdown=block>
-<summary markdown=span>A *Summary*</summary>
-These are the **details** for this item.
+<summary markdown=span>Link Download:</summary>
+Note: Game for PS4 – not use PS3    
+CUSA05088 – EUR  
+Thank @Opoisso893/Golemnight  
+Note : Link Zippy only use with [Jdownload2](https://ouo.io/rG8tH2){:target="_blank"}  
+Game : [Lets]() – [Zippy](https://ouo.io/1KqwzGH){:target="_blank"} – [1File](https://ouo.io/EB5Adu){:target="_blank"}  
+Update 1.25 : [Lets]() – [Zippy](https://ouo.io/KqNdI6){:target="_blank"} – [1File](https://ouo.io/raQRwu0){:target="_blank"}    
+All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/XbzXPm){:target="_blank"} – [1File](https://ouo.io/tK7Bbc){:target="_blank"}      
+Password: downloadgameps3.com.
 </details>
 
 
