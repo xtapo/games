@@ -32,10 +32,10 @@
       {% unless no_link_title %}<a href="{{ post.url | relative_url }}" class="no-hover no-print-link {% unless post.hide_image %}flip-project{% endunless %}" tabindex="-1">{% endunless %}
        <div class="lead aspect-ratio one-one flip-project-img">
           {% include_cached components/hy-img.html img=post.image alt=post.title width=407 height=509 %}
-        </div>  -->
+        </div>   -->
       {% unless no_link_title %}</a>{% endunless %}
       {% assign alt = '' %}
-    {% endif %}{% endunless %}
+    {% endif %}{% endunless %} -->
 
     {% include components/message.html text=post.description hide=hide_description alt=alt %}
   </header>
