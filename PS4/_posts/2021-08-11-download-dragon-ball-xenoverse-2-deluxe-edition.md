@@ -84,13 +84,9 @@ Game : [Lets]() – [Zippy](https://ouo.io/DOvdFlc){:target="_blank"} – [1File
 Update 1.21 : [Lets]() – [Zippy](https://ouo.io/GRradX){:target="_blank"} – [1File](https://ouo.io/iVi9br){:target="_blank"} – [1File (Multi)](https://ouo.io/r30XPtm){:target="_blank"}    
 All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/a32EIp){:target="_blank"} – [1File](https://ouo.io/0c8Vmua){:target="_blank"}      
 Password: downloadgameps3.com  
-
 MD5 Checksum (Base): 6f1c9f67667790f73a76a1b5725d22f6  
-
 MD5 Checksum (Update 1.21): 896af72a9d31378d025bb46428e0af07  
-
 Language: English, French, Spanish, German, Italian, Japanese  
-
 Note: Update v1.21 will only work with the provided Base Game. Repackage to make it work with your own base.  
 </details>  
 
