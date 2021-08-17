@@ -57,6 +57,7 @@ description: >
 
 ![Download Games PS4](/assets/img/download.png)
 
+----------
 ## CUSA05088 – EUR
 
 <details markdown=block>
@@ -70,8 +71,28 @@ Update 1.25 : [Lets]() – [Zippy](https://ouo.io/KqNdI6){:target="_blank"} – 
 All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/XbzXPm){:target="_blank"} – [1File](https://ouo.io/tK7Bbc){:target="_blank"}      
 Password: downloadgameps3.com.
 </details>  
+----------
+## CUSA05350 – USA
 
+<details markdown=block>
+<summary markdown=span>Link Download:</summary>
+Note: Game for PS4 – not use PS3    
+CUSA05350 – USA
+Thank @PuffinMan
+Note : Link Zippy only use with [Jdownload2](https://ouo.io/rG8tH2){:target="_blank"}  
+Game : [Lets]() – [Zippy](https://ouo.io/DOvdFlc){:target="_blank"} – [1File](https://ouo.io/T2yYJn){:target="_blank"} – [1File (Multi)](https://ouo.io/0FW35T){:target="_blank"}    
+Update 1.21 : [Lets]() – [Zippy](https://ouo.io/GRradX){:target="_blank"} – [1File](https://ouo.io/iVi9br){:target="_blank"} – [1File (Multi)](https://ouo.io/r30XPtm){:target="_blank"}    
+All DLC Deluxe : [Lets]() – [Zippy](https://ouo.io/a32EIp){:target="_blank"} – [1File](https://ouo.io/0c8Vmua){:target="_blank"}      
+Password: downloadgameps3.com  
 
+MD5 Checksum (Base): 6f1c9f67667790f73a76a1b5725d22f6  
+
+MD5 Checksum (Update 1.21): 896af72a9d31378d025bb46428e0af07  
+
+Language: English, French, Spanish, German, Italian, Japanese  
+
+Note: Update v1.21 will only work with the provided Base Game. Repackage to make it work with your own base.  
+</details>  
 
 ![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-2.jpg)  
 ![Download Games PS4](/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition-3.jpg)  
