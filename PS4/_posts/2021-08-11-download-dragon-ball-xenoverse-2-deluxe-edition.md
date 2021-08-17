@@ -9,7 +9,7 @@ description: >
 <table border="7">
 <tr>
 <td rowspan="7" bgcolor="#98F5FF">
-<div style="text-align: center;"><img loading="lazy" src="/games/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg" alt="" width="165" height="200"></div>
+<div style="text-align: center;"><img loading="lazy" src="/assets/img/ps4/download-dragon-ball-xenoverse-2-deluxe-edition.jpeg" alt="" width="165" height="200"></div>
 </td>
 </tr>
 <tr>
